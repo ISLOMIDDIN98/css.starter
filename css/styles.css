@@ -28,14 +28,14 @@ color: #000;
 
 
 img{
-min-width: 100%;
+max-width: 100%;
 height: auto;
 
 }
 
 .container{
   width: 100%;
-  min-width: 1200px;
+  max-width: 1200px;
   padding-left: 50px;
   padding-right: 50px;
   margin-left: auto;
